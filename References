@@ -1,108 +1,98 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-
-<h1> References </h1>
-
-<body>
-
-<p>
-[1] Huang L-L, Shimizu A, Hagihara Y and Kobatake H (2010) Gradient fea-ture extraction
+# [1] Huang L-L, Shimizu A, Hagihara Y and Kobatake H (2010) Gradient fea-ture extraction
 
 for - classification based face detection. Pattern Recognition 36:2501:2511
-<br>
-[2] Heisele B, Serre T, Pontil M and Poggio T (2011) Component-based Face Detection. CVPR 01:657{662
-<br>
-[3] Bileschi S, Heisele B (2012) Advances in Component- Based Face Detection. In: Proceedings of
+
+# [2] Heisele B, Serre T, Pontil M and Poggio T (2011) Component-based Face Detection. CVPR 01:657{662
+
+# [3] Bileschi S, Heisele B (2012) Advances in Component- Based Face Detection. In: Proceedings of
 
 the First International Workshop on Pattern Recognition with Support Vector Machines. Springer-
 
 Verlag,
 
 London, UK
-<br>
-[4] Zhang, K., Zhang, Z., Li, Z., & Wang, Y. (2023, March 20). MTCNN: Multi-task Cascaded
+
+# [4] Zhang, K., Zhang, Z., Li, Z., & Wang, Y. (2023, March 20). MTCNN: Multi-task Cascaded
 
 Convolutional Networks for Face Detection. https://arxiv.org/pdf/1604.02878 (The original MTCNN
 
 paper)
-<br>
-[5] Agrawal, A., Raj, B., & Gupta, A. (2023, October). Real-time Face Detection using Haar 
+
+# [5] Agrawal, A., Raj, B., & Gupta, A. (2023, October). Real-time Face Detection using Haar 
 
 Cascade Classifier with OpenCV. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/10/
 
 face-detection-using-haar-cascade-using-python/
-<br>
-[6] Li, S., Wang, W., Zhao, T., & Tang, X. (2023, December). A Performance Comparison of Deep
+
+# [6] Li, S., Wang, W., Zhao, T., & Tang, X. (2023, December). A Performance Comparison of Deep
 
 Learning-based Face Detection Algorithms. ScienceDirect.
 
 https://www.sciencedirect.com/science/article/abs/pii/S0169260722000062
-<br>
-[7] Guo, W., Li, H., Sheng, S., & Zhou, Z. (2024, March). MTCNN Based Facial Landmark
+
+# [7] Guo, W., Li, H., Sheng, S., & Zhou, Z. (2024, March). MTCNN Based Facial Landmark
 
 Detection. https://arxiv.org/pdf/2307.13746 (A recent paper on extending MTCNN for facial
 
 landmark detection)
-<br>
-[8]. Niu, X., Han, Y., Wang, S., & Chen, X. (2023). An Efficient and Robust Face Detection Method 
+
+# [8]. Niu, X., Han, Y., Wang, S., & Chen, X. (2023). An Efficient and Robust Face Detection Method 
 
 with Cascaded Deep Networks. Pattern Recognition Letters, 173, 122-129. 
 
 https://www.mdpi.com/2076-3417/9/20/4344 (This paper proposes an efficient face detection 
 
 method using cascaded deep networks) 
-<br>
-[9] Viola P, Jones M (2011) Rapid object detection using a boosted cascade of simple features. In:
+
+# [9] Viola P, Jones M (2011) Rapid object detection using a boosted cascade of simple features. In:
 
 Proceedings of CVPR 1:511{518
-<br>
-[10] Lienhart R, Kuranov A, Pisarevsky V (2012) Empirical Analysis of Detection Cascades of
+
+# [10] Lienhart R, Kuranov A, Pisarevsky V (2012) Empirical Analysis of Detection Cascades of
 
 Boosted Classifiers for Rapid Object Detection. Technical report, Microprocessor Research Lab, Intel
 
 Labs
-<br>
-[11] Meynet J, Popovici V, Thiran J (2013) Face Detection with Mixtures of Boosted Discriminant
+
+# [11] Meynet J, Popovici V, Thiran J (2013) Face Detection with Mixtures of Boosted Discriminant
 
 Features. Technicalreport, EPFL
-<br>
-[12] Wang Q, Yang J (2016) Eye Detection in Facial Images with Unconstrained Background. Journal 
+
+# [12] Wang Q, Yang J (2016) Eye Detection in Facial Images with Unconstrained Background. Journal 
 
 of Pattern Recognition Research, 1:55{62
-<br>
-[13] Wilson P, Fernandez J (2016) Facial feature detection using Haar classifiers. J.Comput. Small Coll.
+
+# [13] Wilson P, Fernandez J (2016) Facial feature detection using Haar classifiers. J.Comput. Small Coll.
 
 21:127{133
-<br>
-[14] Feng X, Wang Y, Li B (2016) A fast eye location method using ordinal features. In: Proceedings of
+
+# [14] Feng X, Wang Y, Li B (2016) A fast eye location method using ordinal features. In: Proceedings of
 
 the 2006 ACM SIGCHI
-<br>
-[15] Freund Y, Schapire R (2010) Experiments with a New Boosting Algorithm. In: Proc. of
+
+# [15] Freund Y, Schapire R (2010) Experiments with a New Boosting Algorithm. In: Proc. of
 
 International Conference on Machine Learning
-<br>
-[16] Campadeli P, Lanzarottti R, Lipori G (2011) Eye localization: a survey In: The fundamentalsof
+
+# [16] Campadeli P, Lanzarottti R, Lipori G (2011) Eye localization: a survey In: The fundamentalsof
 
 verbal and non verbal communication and the biometrical issue. NATO Science Series.
-<br>
-[17] Bhavan R, Dr.Suvarna. Nandyal”Detection of Dancer using Morphological Operations
+
+# [17] Bhavan R, Dr.Suvarna. Nandyal”Detection of Dancer using Morphological Operations
 
 “International Journal of Innovative Science and
 
 Research Technology(IJISRT).
-<br>
-[18] Smith, J., Johnson, A., & Lee, C. (2023). Deep Learning-Based Face Detection Using
+
+# [18] Smith, J., Johnson, A., & Lee, C. (2023). Deep Learning-Based Face Detection Using
 
 Multi-Scale Feature Fusion. IEEE Transactions on Image Processing, 32(5), 987-995. https://
 
 ieeexplore.ieee.org/document/123456789 (This paper presents a deep learning-based face 
 
 detection method that leverages multi-scale feature fusion for improved accuracy.)
-<br>
-[19] Wang, L., Zhang, Q., & Liu, H. (2023). Real-Time Face Detection in Video Streams Using 
+
+# [19] Wang, L., Zhang, Q., & Liu, H. (2023). Real-Time Face Detection in Video Streams Using 
 
 Region Proposal Networks. IEEE Transactions on Circuits and Systems for Video
 
@@ -111,8 +101,8 @@ Technology, 13(4), 789-796. https://ieeexplore.ieee.org/document/123456789 (This
 introduces a real-time face detection approach for video streams based on region proposal
 
 networks.)
-<br>
-[20] Chen, Y., Wu, Z., & Li, Q. (2023). Fast Face Detection Algorithm Using Binary Patterns
+
+# [20] Chen, Y., Wu, Z., & Li, Q. (2023). Fast Face Detection Algorithm Using Binary Patterns
 
 and Integral Images. Journal of Visual Communication and Image Representation, 45, 213-
 
@@ -121,8 +111,8 @@ and Integral Images. Journal of Visual Communication and Image Representation, 4
 proposes a fast face detection algorithm that combines binary patterns and integral images for
 
 efficient processing.)
-<br>
-[21] Liu, M., Zheng, K., & Zhao, H. (2023). Hybrid Face Detection Method Based on Feature
+
+# [21] Liu, M., Zheng, K., & Zhao, H. (2023). Hybrid Face Detection Method Based on Feature
 
 Fusion and Spatial Pyramid Pooling. Journal of Electronic Imaging, 32(6), 123456.
 
@@ -131,8 +121,8 @@ https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging (This 
 presents a hybrid face detection method that integrates feature fusion and spatial pyramid
 
 pooling for enhanced performance.)
-<br>
-[22] Xu, H., Zhang, G., & Wang, Y. (2023). Face Detection Using Convolutional Neural
+
+# [22] Xu, H., Zhang, G., & Wang, Y. (2023). Face Detection Using Convolutional Neural
 
 Networks with Adaptive Pooling. Neural Processing Letters, 38(2), 567-574.
 
@@ -141,24 +131,24 @@ https://link.springer.com/article/10.1007/s11063-022-10478-9 (This paper propose
 detection approach employing convolutional neural networks with adaptive pooling for
 
 improved accuracy and efficiency.)
-<br>
-[23] Zhou, Q., Liu, X., & Chen, W. (2023). Robust Face Detection in Low-Light Conditions
+
+# [23] Zhou, Q., Liu, X., & Chen, W. (2023). Robust Face Detection in Low-Light Conditions
 
 Using Transfer Learning. Sensors, 23(7), 1234. https://www.mdpi.com/123456 (This study
 
 presents a robust face detection method for low-light conditions utilizing transfer learning
 
 techniques.)
-<br>
-[24] Wang, J., Li, S., & Zhang, L. (2023). Face Detection in Unconstrained Environments
+
+# [24] Wang, J., Li, S., & Zhang, L. (2023). Face Detection in Unconstrained Environments
 
 Using Generative Adversarial Networks. Journal of Machine Learning Research, 45, 234-241.
 
 http://jmlr.org/papers/v45/wang23a.html (This research explores face detection in
 
 unconstrained environments through the application of generative adversarial networks.)
-<br>
-[25] Zhang, Y., Hu, C., & Yang, L. (2023). Efficient Face Detection Using Attention
+
+# [25] Zhang, Y., Hu, C., & Yang, L. (2023). Efficient Face Detection Using Attention
 
 Mechanisms and Edge Features. IEEE Access, 11, 123456-123465.
 
@@ -167,8 +157,8 @@ https://ieeexplore.ieee.org/document/123456789 (This article introduces an effic
 detection method leveraging attention mechanisms and edge features for enhanced
 
 performance.)
-<br>
-[26] Liu, Q., Wang, F., & Zhao, Y. (2023). Adaptive Face Detection Algorithm Based on
+
+# [26] Liu, Q., Wang, F., & Zhao, Y. (2023). Adaptive Face Detection Algorithm Based on
 
 Contextual Information Fusion. Information Fusion, 67, 234-241.
 
@@ -177,8 +167,8 @@ https://www.sciencedirect.com/science/article/pii/S156625352100575X (This paper 
 an adaptive face detection algorithm that incorporates contextual information fusion for robust
 
 performance across diverse scenarios.)
-<br>
-[27] Yang, X., Zhang, L., & Cheng, T. (2023). Face Detection in Thermal Images Using
+
+# [27] Yang, X., Zhang, L., & Cheng, T. (2023). Face Detection in Thermal Images Using
 
 Convolutional Neural Networks and Thermal Pattern Analysis. Infrared Physics &
 
@@ -188,9 +178,4 @@ https://www.sciencedirect.com/science/article/pii/S1350449521003625 (This study 
 
 face detection approach tailored for thermal images, integrating convolutional neural networks
 
-and thermal pattern analysis techniques.)
-
-</p>
-
-</body>
-</html>                                                             
+and thermal pattern analysis techniques.)                                                       
